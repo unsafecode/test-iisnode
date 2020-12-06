@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('./app');
+var app = require('./my-app');
 var debug = require('debug')('test-iisnode:server');
 var http = require('http');
 

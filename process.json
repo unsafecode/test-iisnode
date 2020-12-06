@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "script": "bin/www",
+      "script": "my-index.js",
       "instances": "max",
       "exec_mode": "cluster"
     }
